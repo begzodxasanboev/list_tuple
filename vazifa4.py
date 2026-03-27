@@ -1,7 +1,7 @@
 import os
 os.system('cls')
 
-matn = input('Sozni kiriting: ')
+matn = input('Sozni kiriting:  ')
 t = []
 uzinlik = len(matn)
 
